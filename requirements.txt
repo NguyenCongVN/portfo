@@ -16,7 +16,7 @@ mccabe==0.6.1
 Pillow==7.1.2
 pycodestyle==2.5.0
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
